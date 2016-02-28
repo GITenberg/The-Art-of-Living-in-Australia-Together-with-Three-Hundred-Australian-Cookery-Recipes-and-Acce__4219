@@ -1,0 +1,28 @@
+_repo: The-Art-of-Living-in-Australia-Together-with-Three-Hundred-Australian-Cookery-Recipes-and-Acce__4219
+creator:
+  author:
+    agent_name: Muskett, Philip E.
+    deathdate: 1909
+    gutenberg_agent_id: '1404'
+    url: http://www.gutenberg.org/2009/agents/1404
+description: ''
+gutenberg_bookshelf:
+- Cookery
+- Australia
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcsh 'Cooking, Australian'
+- !lcsh 'Health'
+- !lcc 'TX'
+- !lcsh 'Australia -- Social life and customs'
+title: "The Art of Living in Australia\r\nTogether with Three Hundred Australian Cookery\
+  \ Recipes and Accessory Kitchen Information by Mrs. H. Wicken"
+url: http://www.gutenberg.org/ebooks/4219
