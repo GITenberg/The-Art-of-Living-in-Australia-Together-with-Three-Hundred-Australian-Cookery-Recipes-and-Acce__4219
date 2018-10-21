@@ -1,5 +1,5 @@
 _repo: The-Art-of-Living-in-Australia-Together-with-Three-Hundred-Australian-Cookery-Recipes-and-Acce__4219
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Health'
 - !lcc 'TX'
 - !lcsh 'Australia -- Social life and customs'
+- GITenberg
 title: "The Art of Living in Australia\r\nTogether with Three Hundred Australian Cookery\
   \ Recipes and Accessory Kitchen Information by Mrs. H. Wicken"
 url: http://www.gutenberg.org/ebooks/4219
